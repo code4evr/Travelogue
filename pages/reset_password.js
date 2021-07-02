@@ -82,7 +82,7 @@ const ResetPassword = () => {
           <h2 className="mb-4 text-center">Reset Password</h2>
           {showError()}
           {showMessage()}
-          {showForm && forgotPasswordForm()}
+          {showForm && ResetPasswordForm()}
         </div>
       </div>
     </Layout>
