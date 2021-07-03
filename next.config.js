@@ -4,7 +4,7 @@ module.exports = withCSS({
   publicRuntimeConfig: {
     APP_NAME: 'TRAVELOGUE',
     API_DEVELOPMENT: 'http://localhost:5002/api',
-    API_PRODUCTION: 'https://travelogue-frontend.vercel.app/api',
+    API_PRODUCTION: 'https://agile-retreat-33320.herokuapp.com/api',
     PRODUCTION: true,
     DOMAIN_DEVELOPMENT: 'http://localhost:3000',
     DOMAIN_PRODUCTION: 'https://travelogue-frontend.vercel.app/',
